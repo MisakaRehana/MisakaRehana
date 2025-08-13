@@ -5,10 +5,10 @@
   
 ### Contact me?
 - [E-mail: main@misakacastle.moe](mailto:main@misakacastle.moe)
-- [Twitter: 御坂12456(@misaka_12456)](https://twitter.com/@misaka_12456)
-- Discord: 御坂12456#3799
-- [Telegram: 御坂12456](https://t.me/Misaka12456)
-- [Bilibili: 御坂12456](https://space.bilibili.com/33964418)
+- [Twitter: 御坂れはな(@misaka_rehana)](https://twitter.com/@misaka_rehana)
+- Discord: 御坂れはな(misaka_rehana)
+- [Telegram: 御坂れはな](https://t.me/MisakaRehana)
+- [Bilibili: 御坂れはな](https://space.bilibili.com/33964418)
 
 ### Have some interest in my organizations?
 - [123 Open-Source Organization(Team123it)](https://github.com/Team123it)
