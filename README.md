@@ -5,7 +5,7 @@
   
 ### Contact me?
 - [E-mail: main@misakacastle.moe](mailto:main@misakacastle.moe)
-- [Twitter: 御坂れはな(@misaka_rehana)](https://twitter.com/@MisakaRehana)
+- [Twitter: 御坂れはな(@MisakaRehana)](https://twitter.com/@MisakaRehana)
 - Discord: 御坂れはな(misaka_rehana)
 - [Telegram: 御坂れはな](https://t.me/MisakaRehana)
 - [Bilibili: 御坂れはな](https://space.bilibili.com/33964418)
